@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zlRQiC8l8eRAbFg9O4i7XScB6pqjk5sHi3wnO1As4Oc4djdeJgTgyhQPY0QbXfBNtnzwfEd2xXEIAHwSkG/AIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexa\\Desktop\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexa\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
